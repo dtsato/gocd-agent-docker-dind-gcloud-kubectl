@@ -1,5 +1,5 @@
-FROM gocd/gocd-agent-docker-dind:v18.2.0
-FROM dtsato/gocd-agent-docker-dind-gcloud:v18.2.0
+FROM gocd/gocd-agent-docker-dind:v19.3.0
+FROM dtsato/gocd-agent-docker-dind-gcloud:v19.3.0
 
 MAINTAINER Danilo Sato <dtsato@gmail.com>
 
